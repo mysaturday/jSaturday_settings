@@ -1,0 +1,16 @@
+{
+	"default": {
+		"a" : 1,
+		"b" : {
+			"b0" : 0,
+			"b1" : 4
+		}
+	},
+	"development" : {
+		"a" : 2
+	},
+	"production" : {
+		"a" : "PROD",
+		"c" : 1
+	}	
+}
